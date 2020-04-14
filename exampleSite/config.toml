@@ -1,4 +1,4 @@
-baseURL = "yogaandoffice.netlify.com"
+baseURL = "https://yogaandoffice.netlify.com"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
