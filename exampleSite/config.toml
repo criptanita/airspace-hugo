@@ -44,16 +44,8 @@ URL = "blog"
 name = "Blog"
 weight = 4
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-[[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 6
 [params]
 author = "Themefisher"
