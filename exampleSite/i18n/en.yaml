@@ -12,7 +12,7 @@
 - id: address_title
   translation: Dirección
 - id: submit
-  translation: Send Message
+  translation: Enviar
 - id: all
   translation: All
 - id: posted_by
