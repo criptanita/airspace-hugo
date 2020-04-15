@@ -35,9 +35,6 @@ URL = "project"
 name = "Project"
 weight = 1
 [[menu.main]]
-name = "About"
-weight = 1
-[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 5
