@@ -11,16 +11,25 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  title: "¿Qué es Shri Vivek Yoga?"
+  description: |
+    Shri Vivek Yoga es una ciencia que nos ayuda a despertar el intelecto.
+    Nos devuelve al estado natural de equilibrio, limpia y fortalece el cuerpo, calma la mente, mejora el sistema nervioso, reduce el estrés y aumenta la concentración.
+  content: |2-
+
+    De esta forma podemos experimentar la satisfacción que produce tener el cuerpo y la mente relajados y así poder trabajar de una forma más eficiente.
+
+    Beneficios del Yoga a nivel laboral:
+    Reduce, previene y gestiona el estrés.
+    Mejora la capacidad de visión y toma de desiciones.
+    Crea un ambiente laboral motivado.
+    Aumenta la relajación y la concentración mejorando la productividad.
+    Disminuye la negatividad, fomenta la empatía en el grupo y la energía positiva de emprendimiento.
+
+    El estrés es uno de los principales factores debilitadores de una organización empresarial. Éste provoca desmotivación, falta de concentración y bajas laborales, generando inestabilidad en el sistema laboral.
+
+    Por qué Shri Vivek Yoga en la empresa?
+    El objetivo de ofrecer yoga en la empresa es mejorar la vida laboral y personal de sus empleados  a través de  técnicas del yoga.
   image: images/wrapper-img.png
 portfolio:
   enable: false
