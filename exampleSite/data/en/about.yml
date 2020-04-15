@@ -8,7 +8,7 @@ about:
 
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
   button:
-    enable: true
+    enable: false
     label: Download Company Profile
     link: "#"
   funfacts:
