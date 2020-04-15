@@ -45,7 +45,7 @@ portfolio:
     tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
   button:
     enable: true
-    label: View Works
+    label: Servicios
     link: project
 service:
   enable: false
