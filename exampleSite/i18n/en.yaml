@@ -14,7 +14,7 @@
 - id: submit
   translation: Enviar
 - id: all
-  translation: All
+  translation: Todo
 - id: posted_by
   translation: Posted By
 - id: read_more
