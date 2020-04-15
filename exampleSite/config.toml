@@ -33,7 +33,7 @@ name = "Contacto"
 weight = 6
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Acerca"
 weight = 1
 [[menu.main]]
 URL = "project"
