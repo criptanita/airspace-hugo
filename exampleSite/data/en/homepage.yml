@@ -23,7 +23,7 @@ about:
     culpa qui officia deserunt mollit anim id.
   image: images/wrapper-img.png
 portfolio:
-  enable: true
+  enable: false
   bg_image: images/featue-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
