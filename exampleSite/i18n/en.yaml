@@ -22,7 +22,7 @@
 - id: latest_posts
   translation: Últimas entradas
 - id: page_prev
-  translation: Prev
+  translation: Anterior
 - id: page_next
   translation: Next
 - id: tags
