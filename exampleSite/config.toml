@@ -37,12 +37,8 @@ name = "Acerca"
 weight = 1
 [[menu.main]]
 URL = "project"
-name = "Project"
+name = "Servicios"
 weight = 2
-[[menu.main]]
-URL = "service"
-name = "Service"
-weight = 3
 [[menu.main]]
 URL = "blog"
 name = "Blog"
