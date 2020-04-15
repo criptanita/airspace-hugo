@@ -14,7 +14,7 @@ about:
     link: "#"
   funfacts: []
 features:
-  enable: true
+  enable: false
   title: data en about features
   feature_item:
   - icon: ion-ios-color-filter-outline
