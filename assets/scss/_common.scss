@@ -261,7 +261,7 @@ input[type="tel"] {
 
   p {
     font-style: italic;
-    color: #000;
+    color: #666;
     font-family: $secondary-font;
   }
 }
@@ -291,7 +291,7 @@ input[type="tel"] {
     }
 
     p {
-      color: $light;
+      color: $dark;
     }
   }
 }
