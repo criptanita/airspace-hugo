@@ -13,6 +13,7 @@ about:
     suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
     dolore officia adipisci neque!
   image: images/company/company-group-pic.jpg
+  description: data en about
 featured_service:
   enable: true
   service_item:
