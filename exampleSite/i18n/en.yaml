@@ -16,7 +16,7 @@
 - id: all
   translation: Todo
 - id: posted_by
-  translation: Posted By
+  translation: Publicado por
 - id: read_more
   translation: Continue Reading
 - id: latest_posts
