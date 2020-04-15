@@ -44,10 +44,6 @@ URL = "blog"
 name = "Blog"
 weight = 4
 [[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
-[[menu.main]]
 URL = "faq"
 name = "FAQ"
 parent = "Pages"
