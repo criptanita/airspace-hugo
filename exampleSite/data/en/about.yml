@@ -35,7 +35,7 @@ features:
   title: data en about features
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: data en about features
+    name: data en about features features item
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-unlocked-outline
