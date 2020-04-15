@@ -28,20 +28,8 @@ URL = "project"
 name = "Servicios"
 weight = 2
 [[menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 6
 [[menu.main]]
 URL = "about"
