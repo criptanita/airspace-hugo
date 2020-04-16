@@ -31,7 +31,7 @@ about:
     El objetivo de ofrecer yoga en la empresa es mejorar la vida laboral y personal de sus empleados  a través de  técnicas del yoga.
   image: images/wrapper-img.png
 portfolio:
-  enable: true
+  enable: false
   bg_image: images/featue-bg.jpg
   title: Sobre las clases y talleres
   content: "Duración:\nEntre 60 y 80 minutos, según necesidades de la empresa.\n\nEn
