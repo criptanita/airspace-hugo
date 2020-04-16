@@ -51,9 +51,9 @@ weight = 6
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "anacehuhe@gmail.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Barcelona, Catalunya, Spain"
 logo = "images/logo.png"
 mobile = "0124857985320"
 multi_author = false
@@ -95,12 +95,6 @@ icon = "ion-social-googleplus-outline"
 link = "#"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
 link = "#"
 [[params.social]]
 icon = "ion-social-twitter-outline"
