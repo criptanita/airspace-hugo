@@ -38,6 +38,7 @@ Lo que se necesita para una clase es:
 * Pareo o toalla
 * Esterilla
 
+
 No hace falta experiencia previa para poder asistir a las clases.
 
 Se recomienda no comer antes de una hora y media.
