@@ -15,7 +15,7 @@
           <h4>Detalles del curso</h4>
           <ul>
             {{ range .Params.Information }}
-            <li>{{ .label }}: <strong>{{ .info | markdownify }}</strong></li>
+            <li><b>{{ .label }}:</b> <strong>{{ .info | markdownify }}</strong></li>
             {{ end }}
           </ul>
         </div>
