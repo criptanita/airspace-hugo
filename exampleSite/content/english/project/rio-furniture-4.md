@@ -11,8 +11,8 @@ information:
   info: Website Redesign
 - label: Tools Used
   info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
+- label: Recomendaciones
+  info: No comer una hora y media antes de la clase
 - label: Requisitos
   info: No hace falta experiencia previa
 
