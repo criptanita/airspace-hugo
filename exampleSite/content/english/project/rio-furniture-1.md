@@ -1,38 +1,47 @@
 ---
-title: prueba
-description: this is meta description
+title: Yoga y Meditación
+description: ''
 image: ''
 bg_image: images/featue-bg.jpg
 category: Cursos
-information: []
+information:
+- label: Horario
+  info: Puede realizarse antes,
+- info: " en la pausa o al final de "
+- info: la jornada laboral.
+- label: Duración
+  info: " 60 u 80 minutos, según "
+- info: necesidades de la empresa.
 
 ---
-## Behance Website Redesign
+## **¿Por qué YOGA Y MEDITACION?**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+Aparte de obtener los beneficios de yoga, profundizamos aún más en técnicas que nos ayudan a poner más atención en lo que estamos realizando en cada momento.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+**Algunos de sus beneficios a nivel laboral:**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
+* Experimentar que el estado de relajación no es estar más perezoso, sino más activo, más vivo.
+* Mejorar la auto-escucha de nuestro estrés mental y así poder mejorar nuestros patrones.
+* Aprovechar la energía para no perder el objetivo de lo que queremos.
+* Aumentar la claridad de la energía que perdemos al no poner atención en las cosas que hacemos.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+  
+**_En las clases trabajamos_:**
+
+Calentamiento y posturas (asanas), técnicas de respiración (pranayamas), técnicas para desarrollar más la concentración, mantra del OMM, y relajación final.
+
+Las clases pueden realizarse antes de empezar la jornada laboral, en la pausa, o al finalizar la misma.
+
+Lo que se necesita para una clase es:
+
+* Ropa cómoda
+* Pareo o toalla
+* Esterilla
+
+No hace falta experiencia previa para poder asistir a las clases.
+
+Se recomienda no comer antes de una hora y media.
+
+**Duración de las clases:**
+
+60 o 80 minutos , según necesidades de la empresa.
