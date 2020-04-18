@@ -6,7 +6,7 @@ bg_image: images/featue-bg.jpg
 category: Cursos
 information:
 - label: Horario
-  info: Puede realizarse antes, en la pausa o al final de la jornada laboral.
+  info: "</br>Puede realizarse antes, en la pausa o al final de la jornada laboral."
 - label: Duración
   info: 60 u 80 minutos, según necesidades de la empresa.
 - label: Qué se necesita
