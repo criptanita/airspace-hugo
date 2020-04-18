@@ -1,7 +1,7 @@
 ---
 title: Yoga y Meditación
 description: ''
-image: ''
+image: "/images/slider-bg-1.JPG"
 bg_image: images/featue-bg.jpg
 category: Cursos
 information:
