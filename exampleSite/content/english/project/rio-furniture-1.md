@@ -1,7 +1,7 @@
 ---
 title: prueba
 description: this is meta description
-image: images/portfolio/work1.jpg
+image: ''
 bg_image: images/featue-bg.jpg
 category: Cursos
 information: []
