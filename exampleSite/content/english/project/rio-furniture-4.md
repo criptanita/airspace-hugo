@@ -9,8 +9,8 @@ information:
   info: Jannie Kelonsky
 - label: What We Did
   info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
+- label: Qué se necesita
+  info: Ropa cómoda, esterilla y pareo o toalla
 - label: Recomendaciones
   info: No comer una hora y media antes de la clase
 - label: Requisitos
