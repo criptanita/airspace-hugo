@@ -7,8 +7,8 @@ category: UI/UX Design
 information:
 - label: Client
   info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
+- label: Duración
+  info: 60 u 80 minutos, según necesidades de la empresa.
 - label: Qué se necesita
   info: Ropa cómoda, esterilla y pareo o toalla
 - label: Recomendaciones
