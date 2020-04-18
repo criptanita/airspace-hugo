@@ -3,7 +3,7 @@ title: 'Shri Vivek '
 description: Yoga Integral
 image: "/images/cursoyoga.jpg"
 bg_image: images/featue-bg.jpg
-category: UI/UX Design
+category: Cursos
 information:
 - label: Horario
   info: Puede realizarse antes, en la pausa o al final de la jornada laboral.
