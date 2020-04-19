@@ -5,7 +5,7 @@ image: "/images/clasemasajecuello.jpg"
 bg_image: images/featue-bg.jpg
 category: Masajes
 information:
-- label: Tipos
+- label: Tipo
   info: Espalda, cuello y hombros
 - label: Duración
   info: 25 o 55 minutos
