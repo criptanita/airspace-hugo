@@ -3,7 +3,7 @@ title: Talleres
 description: ''
 image: "/images/talleres.jpg"
 bg_image: images/featue-bg.jpg
-category: Video
+category: Talleres
 information:
 - label: Duración
   info: Según necesidades de la empresa.
