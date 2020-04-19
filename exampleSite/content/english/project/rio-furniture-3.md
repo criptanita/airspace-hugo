@@ -1,7 +1,7 @@
 ---
 title: Talleres
 description: ''
-image: "/images/talleres.jpg"
+image: "/images/clasetaller.jpg"
 bg_image: images/featue-bg.jpg
 category: Talleres
 information:
