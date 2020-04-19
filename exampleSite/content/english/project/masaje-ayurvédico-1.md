@@ -1,13 +1,13 @@
 +++
 bg_image = "images/featue-bg.jpg"
 category = "Masajes"
-description = "Piernas"
+description = "Pies"
 draft = true
-image = "/images/clasemasajepierna.jpg"
+image = "/images/clasemasajepies.jpg"
 title = "Masaje Ayurvédico"
 [[information]]
-info = "Piernas"
-label = "Tipos"
+info = "Pies"
+label = "Tipo"
 [[information]]
 info = "25 o 55 minutos"
 label = "Duración"
