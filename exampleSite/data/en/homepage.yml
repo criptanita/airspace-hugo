@@ -2,8 +2,8 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  title: Yoga & Office
-  content: DESPIERTA TU POTENCIAL CON EL YOGA
+  title: DESPIERTA TU POTENCIAL CON EL YOGA
+  content: ''
   button:
     enable: false
     label: Discover Our Project
