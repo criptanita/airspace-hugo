@@ -1,7 +1,7 @@
 ---
 title: 'Shri Vivek '
 description: Yoga Integral
-image: "/images/cursoyoga.jpg"
+image: "/images/claseyoga.jpg"
 bg_image: images/featue-bg.jpg
 category: Clases
 information:
