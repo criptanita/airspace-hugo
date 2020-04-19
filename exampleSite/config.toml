@@ -55,7 +55,7 @@ email = "anacehuhe@gmail.com"
 google_analitycs_id = ""
 location = "Barcelona, Catalunya, Spain"
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = "+34638283233"
 multi_author = false
 [params.gmap]
 enable = true
@@ -65,7 +65,7 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
-label = "Get A Quote"
+label = "Precios"
 link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
