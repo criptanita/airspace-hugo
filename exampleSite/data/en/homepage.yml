@@ -11,10 +11,11 @@ banner:
 about:
   enable: true
   title: "¿Qué es Shri Vivek Yoga?"
-  description: |-
+  description: ''
+  content: |-
     Shri Vivek Yoga es una ciencia que nos ayuda a despertar el intelecto.
     Nos devuelve al estado natural de equilibrio, limpia y fortalece el cuerpo, calma la mente, mejora el sistema nervioso, reduce el estrés y aumenta la concentración.
-  content: |-
+
     De esta forma podemos experimentar la satisfacción que produce tener el cuerpo y la mente relajados y así poder trabajar de una forma más eficiente.
 
     Beneficios del Yoga a nivel laboral:
