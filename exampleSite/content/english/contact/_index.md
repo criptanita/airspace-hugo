@@ -1,6 +1,6 @@
 ---
 title: Contacto
-description: other pages contact en
+description: ''
 bg_image: images/featue-bg.jpg
 
 ---
