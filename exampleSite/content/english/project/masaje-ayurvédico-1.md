@@ -2,7 +2,6 @@
 bg_image = "images/featue-bg.jpg"
 category = "Masajes"
 description = "Pies"
-draft = true
 image = "/images/clasemasajepies.jpg"
 title = "Masaje Ayurvédico"
 [[information]]
