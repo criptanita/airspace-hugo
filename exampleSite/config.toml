@@ -49,7 +49,7 @@ name = "Contacto"
 weight = 6
 [params]
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "$mail_to = \"anacehuhe@gmail.com\";"
 description = "This is meta description"
 email = "anacehuhe@gmail.com"
 google_analitycs_id = ""
