@@ -55,10 +55,10 @@ email = "anacehuhe@gmail.com"
 google_analitycs_id = ""
 location = "Barcelona, Catalunya, Spain"
 logo = "images/logo.png"
-phone = "638283233"
 multi_author = false
+phone = "638283233"
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
