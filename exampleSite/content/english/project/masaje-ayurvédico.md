@@ -6,7 +6,7 @@ image = "/images/clasemasajepierna.jpg"
 title = "Masaje Ayurvédico"
 [[information]]
 info = "Piernas"
-label = "Tipos"
+label = "Tipo"
 [[information]]
 info = "25 o 55 minutos"
 label = "Duración"
