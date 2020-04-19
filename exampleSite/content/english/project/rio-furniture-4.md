@@ -1,6 +1,6 @@
 ---
-title: 'Shri Vivek '
-description: Yoga Integral
+title: Yoga Integral
+description: Shri Vivek
 image: "/images/claseyoga.jpg"
 bg_image: images/featue-bg.jpg
 category: Clases
