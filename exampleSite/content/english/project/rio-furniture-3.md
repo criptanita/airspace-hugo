@@ -11,7 +11,7 @@ information:
   info: Semanales, quincenales, mensuales o esporádicas.
 
 ---
-## Behance Website Redesign
+## Tipos de Talleres
 
 Las técnicas utilizadas en los talleres mejoran la concentración, aprenden a disminuir el estrés y aumentan la energía para tener más claridad de visión.
 
