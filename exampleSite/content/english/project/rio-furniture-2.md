@@ -1,7 +1,7 @@
 ---
 title: Masaje Ayurvédico
 description: Prana-Chikitsa
-image: "/images/masaje1.jpg"
+image: "/images/clasemasaje.jpg"
 bg_image: images/featue-bg.jpg
 category: Masajes
 information:
