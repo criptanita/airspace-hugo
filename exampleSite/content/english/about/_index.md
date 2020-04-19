@@ -1,5 +1,5 @@
 ---
-title: Un Pequeño Resumen Acerca de Mí
+title: Un poco sobre mí
 description: ''
 bg_image: images/featue-bg.jpg
 
