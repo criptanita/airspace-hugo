@@ -53,7 +53,7 @@ contact_form_action = "https://formspree.io/mwkndryw"
 description = "This is meta description"
 email = "anacehuhe@gmail.com"
 google_analitycs_id = ""
-location = "Barcelona, Catalunya, Spain"
+location = "Barcelona, Catalunya"
 logo = "images/logo.png"
 multi_author = false
 phone = "638283233"
@@ -95,9 +95,6 @@ icon = "ion-social-googleplus-outline"
 link = "#"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-twitter-outline"
 link = "#"
 [[params.social]]
 icon = "ion-social-facebook-outline"
