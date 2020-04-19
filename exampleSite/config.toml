@@ -55,7 +55,7 @@ email = "anacehuhe@gmail.com"
 google_analitycs_id = ""
 location = "Barcelona, Catalunya, Spain"
 logo = "images/logo.png"
-mobile = "+34638283233"
+mobile = "638283233"
 multi_author = false
 [params.gmap]
 enable = true
