@@ -1,19 +1,19 @@
 ---
 title: Masaje Ayurvédico
-description: Prana-Chikitsa
-image: "/images/clasemasaje.jpg"
+description: Espalda, Cuello y Hombros
+image: "/images/clasemasajecuello.jpg"
 bg_image: images/featue-bg.jpg
 category: Masajes
 information:
 - label: Tipos
-  info: Espalda, cuello y hombros. Piernas. Pies
+  info: Espalda, cuello y hombros
 - label: Duración
   info: 25 o 55 minutos
 - label: Material
   info: Nosotros nos encargamos del material y su transporte
 
 ---
-## Masaje Ayurveda
+## Masaje Ayurvédico Prana-Chikitsa
 
 El Masaje AYURVEDA proviene de una ciencia muy antigua y muy eficaz que nos aporta una relajación profunda, limpieza física y mental y rejuvenece el organismo.
 
