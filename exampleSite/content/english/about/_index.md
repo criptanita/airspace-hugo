@@ -1,6 +1,6 @@
 ---
-title: Acerca
-description: this is meta description
+title: Un Pequeño Resumen Acerca de Mí
+description: ''
 bg_image: images/featue-bg.jpg
 
 ---
