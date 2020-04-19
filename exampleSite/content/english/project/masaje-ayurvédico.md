@@ -1,12 +1,12 @@
 +++
 bg_image = "images/featue-bg.jpg"
 category = "Masajes"
-description = "Espalda, Cuello y Hombros"
+description = "Piernas"
 draft = true
-image = "/images/clasemasajecuello.jpg"
+image = "/images/clasemasajepierna.jpg"
 title = "Masaje Ayurvédico"
 [[information]]
-info = "Espalda, cuello y hombros"
+info = "Piernas"
 label = "Tipos"
 [[information]]
 info = "25 o 55 minutos"
