@@ -3,7 +3,7 @@ title: Yoga y Meditación
 description: ''
 image: "/images/slider-bg-1.JPG"
 bg_image: images/featue-bg.jpg
-category: Cursos
+category: Clases
 information:
 - label: Requisitos
   info: No hace falta experiencia previa
