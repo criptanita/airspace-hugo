@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  title: DESPIERTA TU POTENCIAL CON EL YOGA
+  title: Despierta tu potencial con el Yoga
   content: ''
   button:
     enable: false
