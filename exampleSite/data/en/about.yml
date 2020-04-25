@@ -24,6 +24,9 @@ features:
   title: Colaboraciones
   feature_item:
   - icon: ''
+    name: Grand Hotel Central
+    content: Barcelona
+  - icon: ''
     name: Hotel Arts
     content: Barcelona
   - icon: ''
