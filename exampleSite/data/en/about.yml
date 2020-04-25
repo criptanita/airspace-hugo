@@ -3,15 +3,16 @@ about:
   enable: true
   image: images/about.jpg
   title: Acerca de mí
-  content: |-
-    Soy Ana Hurtado, profesora de yoga, llevo 12 años formándome  y practicando técnicas de Shri Vivek Yoga y  la Ciencia de Ayurveda en India y Barcelona, ambas ciencias están enfocadas en el equilibrio y bienestar de las personas.
-
-    Tengo más de 9 años de experiencia como profesora y organizadora de clases y talleres para particulares (yoga y meditación) y empresas (técnicas de concentración, gestión del estrés). Soy apasionada de mi trabajo y agradecida de poder transmitir la ciencia del yoga a las personas que están interesada en obtener sus beneficios.
-
-    Formación a destacar:
-    Hatha Yoga, Yoga y meditación, Yoga Integral, Yoga Kundalini, Reiki
-    Gestión del estrés, GESP (Gestión de conflictos personales), técnicas de concentración
-    Adí tantra, Sadhana de los chakras, taller de alimentación energética.
+  content: "Soy Ana Hurtado, profesora de yoga, llevo 12 años formándome  y practicando
+    técnicas de Shri Vivek Yoga y  la Ciencia de Ayurveda en India y Barcelona, ambas
+    ciencias están enfocadas en el equilibrio y bienestar de las personas.\n\nTengo
+    más de 9 años de experiencia como profesora y organizadora de clases y talleres
+    para particulares (yoga y meditación) y empresas (técnicas de concentración, gestión
+    del estrés). \nSoy apasionada de mi trabajo y agradecida de poder transmitir la
+    ciencia del yoga a las personas que están interesada en obtener sus beneficios.\n\nFormación
+    a destacar:\nHatha Yoga, Yoga y meditación, Yoga Integral, Yoga Kundalini, Reiki\nGestión
+    del estrés, GESP (Gestión de conflictos personales), técnicas de concentración\nAdí
+    tantra, Sadhana de los chakras, taller de alimentación energética."
   button:
     enable: false
     label: Download Company Profile
