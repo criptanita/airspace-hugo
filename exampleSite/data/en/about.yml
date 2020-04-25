@@ -27,6 +27,9 @@ features:
     name: Gran Hotel La Florida
     content: Barcelona
   - icon: ''
+    name: Hotel W
+    content: Barcelona y Ciudad de México
+  - icon: ''
     name: Hotel Ohla
     content: Barcelona
   - icon: ''
@@ -41,9 +44,6 @@ features:
   - icon: ''
     name: Hotel Mandarin Oriental
     content: Barcelona
-  - icon: ''
-    name: Hotel W
-    content: Barcelona y Ciudad de México
 testimonial:
   enable: false
 mission_vision:
