@@ -42,7 +42,7 @@ about:
     name: ''
     count: ''
 portfolio:
-  enable: false
+  enable: true
   bg_image: images/featue-bg.jpg
   title: PORTFOLIO
   content: SIMONKEY
