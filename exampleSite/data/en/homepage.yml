@@ -2,11 +2,11 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  title: Despierta tu potencial con el Yoga
+  title: Despierta tu máximo potencial con el Yoga
   content: ''
   button:
     enable: false
-    label: Discover Our Project
+    label: ''
     link: project
 about:
   enable: true
@@ -21,6 +21,10 @@ about:
   image: images/wrapper-img.jpg
   button:
     enable: false
+  funfacts:
+  - icon: ''
+    name: ''
+    count: ''
 portfolio:
   enable: false
   bg_image: images/featue-bg.jpg
