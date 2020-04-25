@@ -10,10 +10,11 @@ banner:
     link: project
 about:
   enable: true
-  title: El estrés es uno de los principales factores debilitadores de una organización
-    empresarial.
+  title: ''
   description: ''
   content: |-
+    El estrés es uno de los principales factores debilitadores de una organización empresarial.
+
     Por qué hacer yoga en la empresa
 
     Con una práctica continua de yoga podemos disminuir el estrés físico y mental, ser conscientes de los beneficios que aporta el estado de relajación y así poder tener más claridad de nuestros objetivos.
