@@ -27,9 +27,8 @@ features:
     name: WeWork
     content: Barcelona
   - icon: ''
-    name: Centro Shri Vivek Yoga Barcelona,España
-    content: 'Yoga Integral, kundalini, Reiki I,II,III, Yoga y meditación, Gestión
-      del estrés, GESP: Gestión de conflictos personales'
+    name: Hotel Mandarin Oriental
+    content: Barcelona
   - icon: ion-ios-game-controller-b-outline
     name: Games Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
