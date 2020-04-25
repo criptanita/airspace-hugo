@@ -12,15 +12,17 @@ about:
     enable: false
     label: Download Company Profile
     link: "#"
-  funfacts: []
+  funfacts:
+  - icon: ''
+    name: ''
+    count: ''
 features:
   enable: false
   title: data en about features
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: data en about features features item
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Asociación de Hatha Yoga, México, D.F
+    content: Tutora Hatha Yoga (2007-2008)
   - icon: ion-ios-unlocked-outline
     name: App Secutity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
