@@ -12,24 +12,15 @@ about:
   enable: true
   title: "¿Qué es Shri Vivek Yoga?"
   description: ''
-  content: |-
-    Shri Vivek Yoga es una ciencia que nos ayuda a despertar el intelecto.
-    Nos devuelve al estado natural de equilibrio, limpia y fortalece el cuerpo, calma la mente, mejora el sistema nervioso, reduce el estrés y aumenta la concentración.
-
-    De esta forma podemos experimentar la satisfacción que produce tener el cuerpo y la mente relajados y así poder trabajar de una forma más eficiente.
-
-    Beneficios del Yoga a nivel laboral:
-    Reduce, previene y gestiona el estrés.
-    Mejora la capacidad de visión y toma de desiciones.
-    Crea un ambiente laboral motivado.
-    Aumenta la relajación y la concentración mejorando la productividad.
-    Disminuye la negatividad, fomenta la empatía en el grupo y la energía positiva de emprendimiento.
-
-    El estrés es uno de los principales factores debilitadores de una organización empresarial. Éste provoca desmotivación, falta de concentración y bajas laborales, generando inestabilidad en el sistema laboral.
-
-    Por qué Shri Vivek Yoga en la empresa?
-    El objetivo de ofrecer yoga en la empresa es mejorar la vida laboral y personal de sus empleados  a través de  técnicas del yoga.
+  content: "¿Por qué Shri Vivek Yoga en la empresa?\n\n\nEl estrés es uno de los principales
+    factores debilitadores de una organización empresarial.\n\n\nEl objetivo de ofrecer
+    yoga en la empresa es mejorar la vida laboral y personal de sus empleados  a través
+    de las técnicas del yoga. \n\n\nShri Vivek Yoga es una ciencia en la que podemos
+    experimentar  la satisfacción que produce tener el cuerpo y la mente relajados,
+    y así poder trabajar de una forma más eficiente.\n\n"
   image: images/wrapper-img.jpg
+  button:
+    enable: true
 portfolio:
   enable: false
   bg_image: images/featue-bg.jpg
