@@ -33,7 +33,7 @@ about:
     El objetivo de ofrecer yoga, talleres y masajes en la empresa es mejorar la vida laboral y personal de sus empleados experimentando la satisfacción que produce tener el cuerpo y la mente relajados y así poder trabajar de una forma más eficiente.
   image: images/wrapper-img.jpg
   button:
-    enable: true
+    enable: false
     link: project
     label: Servicios
   funfacts:
