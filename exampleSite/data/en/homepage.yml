@@ -10,22 +10,27 @@ banner:
     link: project
 about:
   enable: true
-  title: "¿Qué es Shri Vivek Yoga?"
+  title: El estrés es uno de los principales factores debilitadores de una organización
+    empresarial.
   description: ''
-  content: "El estrés es uno de los principales factores debilitadores de una organización
-    empresarial.\n\n\n¿Porque hacer yoga en la empresa ? \n\nCon una práctica continua
-    de yoga podemos disminuir el estrés físico y mental, ser conscientes de los beneficios
-    que aporta el estado de relajación y así poder tener más claridad de nuestros
-    objetivos.\n\n\n¿Porqué organizar talleres?\n\nEn los talleres se profundiza más
-    en técnicas prácticas y teóricas con temas específicos.\n\nSu objetivo es aprender
-    técnicas para mejorar nuestra concentración.\n\n\n¿Porque hacerme un masaje?\n\nEl
-    Masaje Ayúrvedico nos aporta un estado de equilibrio y sensación de bienestar
-    tanto físico como mental, si lo realizamos con frecuencia poco a poco disminuyen
-    las tensiones y somos más conscientes de la importancia que tiene en nuestra vida
-    diaria.\n\n\nEl objetivo de ofrecer yoga, talleres y masajes en la empresa es
-    mejorar la vida laboral y personal de sus empleados experimentando la satisfacción
-    que produce tener el cuerpo y la mente relajados y así poder trabajar de una forma
-    más eficiente.\n\n"
+  content: |-
+    Por qué hacer yoga en la empresa
+
+    Con una práctica continua de yoga podemos disminuir el estrés físico y mental, ser conscientes de los beneficios que aporta el estado de relajación y así poder tener más claridad de nuestros objetivos.
+
+
+    Por qué organizar talleres
+
+    En los talleres se profundiza más en técnicas prácticas y teóricas con temas específicos.
+    Su objetivo es aprender técnicas para mejorar nuestra concentración.
+
+
+    Por qué hacerme un masaje
+
+    El Masaje Ayúrvedico nos aporta un estado de equilibrio y sensación de bienestar tanto físico como mental, si lo realizamos con frecuencia poco a poco disminuyen las tensiones y somos más conscientes de la importancia que tiene en nuestra vida diaria.
+
+
+    El objetivo de ofrecer yoga, talleres y masajes en la empresa es mejorar la vida laboral y personal de sus empleados experimentando la satisfacción que produce tener el cuerpo y la mente relajados y así poder trabajar de una forma más eficiente.
   image: images/wrapper-img.jpg
   button:
     enable: true
