@@ -17,7 +17,7 @@ about:
     name: ''
     count: ''
 features:
-  enable: false
+  enable: true
   title: data en about features
   feature_item:
   - icon: ion-ios-color-filter-outline
