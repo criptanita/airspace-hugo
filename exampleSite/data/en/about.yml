@@ -24,6 +24,9 @@ features:
   title: Colaboraciones
   feature_item:
   - icon: ''
+    name: Gran Hotel La Florida
+    content: Barcelona
+  - icon: ''
     name: Hotel Ohla
     content: Barcelona
   - icon: ''
