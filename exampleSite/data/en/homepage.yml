@@ -29,21 +29,17 @@ portfolio:
   enable: false
   bg_image: images/featue-bg.jpg
   title: Sobre las clases y talleres
-  content: "Duración:\nEntre 60 y 80 minutos, según necesidades de la empresa.\n\nEn
-    las clases trabajamos:\nCalentamiento del cuerpo, posturas específicas de Yoga
-    (asanas), técnicas de  respiración (pranayamas), cantos de mantras, meditación
-    y relajación final.\n \nLas clases  pueden realizarse antes de empezar la jornada
-    laboral, en la pausa, o al finalizar la misma.\n\nPara realizar las clases es
-    necesario llevar ropa cómoda, una esterilla y un pareo o toalla para poner encima
-    de esta.\n\nNo hace falta experiencia previa para poder asistir a las clases.\nEs
-    recomendable no comer antes de una hora y media.\n\nPrecios de las clases según
-    acuerdo con la empresa."
+  content: ''
   button:
     enable: true
     label: Servicios
     link: project
 service:
   enable: false
+  service_item:
+  - icon: ''
+    name: ''
+    content: ''
 cta:
   enable: false
   bg_image: images/call-to-action-bg.jpg
