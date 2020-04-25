@@ -21,8 +21,11 @@ about:
     count: ''
 features:
   enable: true
-  title: ''
+  title: Colaboraciones
   feature_item:
+  - icon: ''
+    name: Hotel Arts
+    content: Barcelona
   - icon: ''
     name: WeWork
     content: Barcelona
