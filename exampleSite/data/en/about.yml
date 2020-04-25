@@ -24,7 +24,13 @@ features:
   title: Colaboraciones
   feature_item:
   - icon: ''
+    name: Hotel Mandarin Oriental
+    content: Barcelona
+  - icon: ''
     name: Gran Hotel La Florida
+    content: Barcelona
+  - icon: ''
+    name: WeWork
     content: Barcelona
   - icon: ''
     name: Hotel W
@@ -37,12 +43,6 @@ features:
     content: Barcelona
   - icon: ''
     name: Hotel Arts
-    content: Barcelona
-  - icon: ''
-    name: WeWork
-    content: Barcelona
-  - icon: ''
-    name: Hotel Mandarin Oriental
     content: Barcelona
 testimonial:
   enable: false
