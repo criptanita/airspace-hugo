@@ -20,7 +20,7 @@ features:
   enable: true
   title: data en about features
   feature_item:
-  - icon: ion-ios-color-filter-outline
+  - icon: ''
     name: Asociación de Hatha Yoga, México, D.F
     content: Tutora Hatha Yoga (2007-2008)
   - icon: ion-ios-unlocked-outline
