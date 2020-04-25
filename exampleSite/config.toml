@@ -92,7 +92,7 @@ enable = true
 preloader = ""
 [[params.social]]
 icon = "ion-social-telegram-outline"
-link = " https://t.me/yogaandoffice"
+link = " https://t.me/@yogaandoffice"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
 link = "#"
