@@ -43,8 +43,8 @@ about:
 portfolio:
   enable: false
   bg_image: images/featue-bg.jpg
-  title: Sobre las clases y talleres
-  content: ''
+  title: PORTFOLIO
+  content: SIMONKEY
   button:
     enable: true
     label: Servicios
