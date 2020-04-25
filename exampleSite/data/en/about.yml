@@ -29,10 +29,9 @@ features:
   - icon: ''
     name: Hotel Mandarin Oriental
     content: Barcelona
-  - icon: ion-ios-game-controller-b-outline
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ''
+    name: Hotel W
+    content: Barcelona y Ciudad de México
   - icon: ion-ios-mic-outline
     name: Animation and Editing
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
