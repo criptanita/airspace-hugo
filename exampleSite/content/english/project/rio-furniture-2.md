@@ -21,12 +21,10 @@ El dolor es causado por un estancamiento de nuestro prana o energía vital en el
 
 Mediante las manipulaciones de presión, movimientos circulatorios, amasamiento, digitopuntura y fricción, generamos calor en el cuerpo y movemos el aire interno equilibrando la energía para su correcto funcionamiento.
 
-Tipo de masaje:
+**Espalda, cuello y hombros.**
 
-**Espalda, cuello, hombros**
+Masaje en espalda, brazos, manos, hombros y cuello. 
 
-Masaje en espalda, brazos, manos, hombros y cuello. Disminuye las tensiones y contracturas aumentando la vitalidad.
-
-La duración del masaje puede ser de 25 o 55 minutos.
+Disminuye las tensiones y contracturas aumentando la vitalidad.
 
 Nosotros nos encargamos del transporte y material necesario.
