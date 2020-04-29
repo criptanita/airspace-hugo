@@ -23,12 +23,10 @@ El dolor es causado por un estancamiento de nuestro prana o energía vital en el
 
 Mediante las manipulaciones de presión, movimientos circulatorios, amasamiento, digitopuntura y fricción, generamos calor en el cuerpo y movemos el aire interno equilibrando la energía para su correcto funcionamiento.
 
-Tipo de masaje:
-
 **Piernas**
 
-Masaje de pies y piernas. Favorece la circulación y el drenaje linfático. Ayuda a reducir la ansiedad y la pesadez en esas zonas.
+Masaje de pies y piernas. 
 
-La duración del masaje puede ser de 25 o 55 minutos.
+Favorece la circulación y el drenaje linfático. Ayuda a reducir la ansiedad y la pesadez en esas zonas.
 
 Nosotros nos encargamos del transporte y material necesario.
