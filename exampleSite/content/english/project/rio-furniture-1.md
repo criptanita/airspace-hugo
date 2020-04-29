@@ -31,5 +31,3 @@ Aparte de obtener los beneficios de yoga, profundizamos aún más en técnicas q
 **_En las clases trabajamos_:**
 
 Calentamiento y posturas (asanas), técnicas de respiración (pranayamas), técnicas para desarrollar más la concentración, mantra del OMM, y relajación final.
-
-Las clases pueden realizarse antes de empezar la jornada laboral, en la pausa, o al finalizar la misma.
