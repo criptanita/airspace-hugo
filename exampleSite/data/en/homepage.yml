@@ -10,10 +10,8 @@ banner:
     link: project
 about:
   enable: true
-  title: El estrés es uno de los principales factores debilitadores de una organización
-    empresarial.
-  description: El estrés es uno de los principales factores debilitadores de una organización
-    empresarial.
+  title: ''
+  description: ''
   content: |-
     El estrés es uno de los principales factores debilitadores de una organización empresarial.
 
