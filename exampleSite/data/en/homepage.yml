@@ -39,7 +39,7 @@ about:
     name: ''
     count: ''
 portfolio:
-  enable: true
+  enable: false
   bg_image: images/featue-bg.jpg
   title: PORTFOLIO
   content: SIMONKEY
@@ -55,7 +55,7 @@ service:
     content: ''
   title: SERVICE
 cta:
-  enable: true
+  enable: false
   bg_image: images/call-to-action-bg.jpg
   title: We design delightful digital experiences. CTA
   content: Read more about what we do and our philosophy of design. Judge for yourself
