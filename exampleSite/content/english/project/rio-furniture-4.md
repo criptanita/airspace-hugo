@@ -28,6 +28,7 @@ Es una ciencia que con sus diversas técnicas aplicadas, limpia y fortalece el c
 * Aumenta la relajación y la concentración mejorando la productividad.
 * Disminuye la negatividad.
 * Fomenta energía positiva de emprendimiento.
+* 
 
 **En las clases trabajamos:**
 
