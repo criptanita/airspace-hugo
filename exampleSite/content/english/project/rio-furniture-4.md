@@ -29,6 +29,8 @@ Es una ciencia que con sus diversas técnicas aplicadas, limpia y fortalece el c
 * Disminuye la negatividad.
 * Fomenta energía positiva de emprendimiento.
 
+`<p></p>`
+
 **En las clases trabajamos:**
 
 Calentamiento del cuerpo, posturas específicas de Yoga (asanas), técnicas de respiración (pranayamas), cantos de mantras, meditación y relajación final.
