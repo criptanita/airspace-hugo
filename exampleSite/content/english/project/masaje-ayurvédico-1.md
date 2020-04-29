@@ -23,12 +23,10 @@ El dolor es causado por un estancamiento de nuestro prana o energía vital en el
 
 Mediante las manipulaciones de presión, movimientos circulatorios, amasamiento, digitopuntura y fricción, generamos calor en el cuerpo y movemos el aire interno equilibrando la energía para su correcto funcionamiento.
 
-Tipo de masaje:
-
 **Pies**
 
-Masaje de pies y digitopuntura. Reduce el cansancio y la ansiedad y calma la mente.
+Masaje de pies y digitopuntura. 
 
-La duración del masaje puede ser de 25 o 55 minutos.
+Reduce el cansancio y la ansiedad y calma la mente.
 
 Nosotros nos encargamos del transporte y material necesario.
