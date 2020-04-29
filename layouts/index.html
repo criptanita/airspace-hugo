@@ -11,7 +11,7 @@
       <div class="col-md-12">
         <div class="block">
           <h1>{{ .title | markdownify }}</h1>
-          <p>{{ .content | markdownify }}</p>
+          
           {{ if .button.enable }}
           {{ with .button }}
           <a href="{{ .link | relLangURL }}" target="_blank" class="btn btn-main animated fadeInUp">{{ .label }}</a>
