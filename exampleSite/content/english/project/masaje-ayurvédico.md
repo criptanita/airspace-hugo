@@ -25,17 +25,9 @@ Mediante las manipulaciones de presión, movimientos circulatorios, amasamiento,
 
 Tenemos diferentes tipos de masaje:
 
-**Espalda, cuello, hombros**
-
-Masaje en espalda, brazos, manos, hombros y cuello. Disminuye las tensiones y contracturas aumentando la vitalidad.
-
 **Piernas**
 
 Masaje de pies y piernas. Favorece la circulación y el drenaje linfático. Ayuda a reducir la ansiedad y la pesadez en esas zonas.
-
-**Pies**
-
-Masaje de pies y digitopuntura. Reduce el cansancio y la ansiedad y calma la mente.
 
 La duración del masaje puede ser de 25 o 55 minutos.
 
