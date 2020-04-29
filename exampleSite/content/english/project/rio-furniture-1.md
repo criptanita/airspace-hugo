@@ -27,6 +27,7 @@ Aparte de obtener los beneficios de yoga, profundizamos aún más en técnicas q
 * Mejorar la auto-escucha de nuestro estrés mental y así poder mejorar nuestros patrones.
 * Aprovechar la energía para no perder el objetivo de lo que queremos.
 * Aumentar la claridad de la energía que perdemos al no poner atención en las cosas que hacemos.
+* 
 
 **_En las clases trabajamos_:**
 
