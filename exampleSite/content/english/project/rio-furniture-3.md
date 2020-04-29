@@ -11,7 +11,6 @@ information:
   info: Semanales, quincenales, mensuales o esporádicas.
 
 ---
-
 Los talleres tienen como objetivo realizar un trabajo más intensivo con algún tema más específico de acuerdo a la necesidad de los trabajadores y de la empresa.
 
 **Algunos ejemplos**:
@@ -26,7 +25,3 @@ Los talleres tienen como objetivo realizar un trabajo más intensivo con algún 
 * Gestión de conflictos con algún compañero de trabajo.
 * Técnicas físicas aplicadas en el trabajo para gestionar el estrés.
 * Por qué es importante el tipo de alimento que necesita cada persona para su desempeño diario.
-
-La duración de los talleres varía dependiendo de la necesidad de la empresa y tienen como objetivo realizar un trabajo más intensivo.
-
-Las sesiones pueden ser semanales, quincenales, mensuales o esporádicas.
