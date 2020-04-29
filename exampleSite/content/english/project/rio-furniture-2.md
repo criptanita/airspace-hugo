@@ -21,7 +21,7 @@ El dolor es causado por un estancamiento de nuestro prana o energía vital en el
 
 Mediante las manipulaciones de presión, movimientos circulatorios, amasamiento, digitopuntura y fricción, generamos calor en el cuerpo y movemos el aire interno equilibrando la energía para su correcto funcionamiento.
 
-Tenemos diferentes tipos de masaje:
+Tipo de masaje:
 
 **Espalda, cuello, hombros**
 
