@@ -15,10 +15,11 @@ Los talleres tienen como objetivo realizar un trabajo más intensivo con algún 
 
 **Algunos ejemplos**:
 
-* Técnicas de meditación y relajación. Auto-escucharnos y relajarnos.
-* Prácticas de respiración para aumentar la concentración. Técnicas adecuadas para no salir de lo que estamos haciendo.
-* Auto masaje y yoga. Para relajar y sacar toxinas de cuerpo y de la mente.
-* Taller de chakras. Cual es su importancia e implicación con nuestra vida diaria.
+* _Técnicas de meditación y relajación._ Auto-escucharnos y relajarnos.
+* _Prácticas de respiración para aumentar la concentración._ Técnicas adecuadas para no salir de lo que estamos haciendo.
+* _Auto masaje y yoga._ Para relajar y sacar toxinas de cuerpo y de la mente.
+* _Taller de chakras._ Cual es su importancia e implicación con nuestra vida diaria.
+* 
 
 **A nivel más teórico:**
 
