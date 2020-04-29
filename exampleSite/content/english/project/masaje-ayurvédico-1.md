@@ -23,10 +23,8 @@ El dolor es causado por un estancamiento de nuestro prana o energía vital en el
 
 Mediante las manipulaciones de presión, movimientos circulatorios, amasamiento, digitopuntura y fricción, generamos calor en el cuerpo y movemos el aire interno equilibrando la energía para su correcto funcionamiento.
 
-**Pies**
-
-Masaje de pies y digitopuntura. 
-
-Reduce el cansancio y la ansiedad y calma la mente.
-
-Nosotros nos encargamos del transporte y material necesario.
+> **Pies**
+>
+> Masaje de pies y digitopuntura.
+>
+> Reduce el cansancio y la ansiedad y calma la mente.
