@@ -23,10 +23,8 @@ El dolor es causado por un estancamiento de nuestro prana o energía vital en el
 
 Mediante las manipulaciones de presión, movimientos circulatorios, amasamiento, digitopuntura y fricción, generamos calor en el cuerpo y movemos el aire interno equilibrando la energía para su correcto funcionamiento.
 
-**Piernas**
-
-Masaje de pies y piernas. 
-
-Favorece la circulación y el drenaje linfático. Ayuda a reducir la ansiedad y la pesadez en esas zonas.
-
-Nosotros nos encargamos del transporte y material necesario.
+> **Piernas**
+>
+> Masaje de pies y piernas. 
+>
+> Favorece la circulación y el drenaje linfático. Ayuda a reducir la ansiedad y la pesadez en esas zonas.
