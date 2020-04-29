@@ -11,9 +11,8 @@ information:
   info: Semanales, quincenales, mensuales o esporádicas.
 
 ---
-## Tipos de Talleres
 
-Las técnicas utilizadas en los talleres mejoran la concentración, aprenden a disminuir el estrés y aumentan la energía para tener más claridad de visión.
+Los talleres tienen como objetivo realizar un trabajo más intensivo con algún tema más específico de acuerdo a la necesidad de los trabajadores y de la empresa.
 
 **Algunos ejemplos**:
 
@@ -28,6 +27,6 @@ Las técnicas utilizadas en los talleres mejoran la concentración, aprenden a d
 * Técnicas físicas aplicadas en el trabajo para gestionar el estrés.
 * Por qué es importante el tipo de alimento que necesita cada persona para su desempeño diario.
 
-La duración de los talleres varía dependiendo de la necesidad de la empresa y tienen como objetivo realizar un trabajo más intensivo. 
+La duración de los talleres varía dependiendo de la necesidad de la empresa y tienen como objetivo realizar un trabajo más intensivo.
 
 Las sesiones pueden ser semanales, quincenales, mensuales o esporádicas.
