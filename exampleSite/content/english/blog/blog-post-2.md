@@ -8,7 +8,7 @@ categories: []
 tags:
 - yoga
 - taller
-description: this is meta description
+description: ''
 type: post
 
 ---
