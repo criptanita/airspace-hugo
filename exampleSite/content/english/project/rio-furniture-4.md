@@ -33,4 +33,8 @@ Es una ciencia que con sus diversas técnicas aplicadas, limpia y fortalece el c
 
 **En las clases trabajamos:**
 
-Calentamiento del cuerpo, posturas específicas de Yoga (asanas), técnicas de respiración (pranayamas), cantos de mantras, meditación y relajación final.
+* Calentamiento del cuerpo.
+* Posturas específicas de Yoga (_asanas_).
+* Técnicas de respiración _(pranayama_s).
+* Cantos de mantras.
+* Meditación y relajación final.
