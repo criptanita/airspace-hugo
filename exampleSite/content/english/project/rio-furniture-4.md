@@ -35,6 +35,6 @@ Es una ciencia que con sus diversas técnicas aplicadas, limpia y fortalece el c
 
 * Calentamiento del cuerpo.
 * Posturas específicas de Yoga (_asanas_).
-* Técnicas de respiración _(pranayama_s).
+* Técnicas de respiración (_pranayamas_).
 * Cantos de mantras.
 * Meditación y relajación final.
