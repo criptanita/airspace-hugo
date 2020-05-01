@@ -1,7 +1,7 @@
 ---
 title: Taller del Primer Chakra en Xperimenta Espacio
-date: 2017-10-04T05:07:10+00:00
-author: Mark Dinn
+date: 2017-10-04T05:07:10.000+00:00
+author: ''
 image: "/images/blog-post-yoga1.jpg"
 bg_image: images/featue-bg.jpg
 categories: []
