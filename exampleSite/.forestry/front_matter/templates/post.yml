@@ -39,3 +39,5 @@ fields:
   name: type
   label: type
   default: post
+pages:
+- exampleSite/content/english/blog/shri-vivek.md
