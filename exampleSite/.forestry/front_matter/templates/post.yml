@@ -29,7 +29,7 @@ fields:
 - type: list
   name: categories
   label: categories
-  hidden: true
+  hidden: false
 - type: list
   name: tags
   label: tags
