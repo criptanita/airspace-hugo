@@ -24,8 +24,8 @@ fields:
 - type: text
   name: description
   label: description
-  description: this is meta description
-  hidden: true
+  description: no escribas nada aqui
+  hidden: false
 - type: list
   name: categories
   label: categories
