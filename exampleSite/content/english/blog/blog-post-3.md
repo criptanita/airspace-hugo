@@ -4,8 +4,7 @@ date: 2018-09-24T08:10:10+00:00
 author: Mark Dinn
 image: "/images/blog-post-yoga2.jpg"
 bg_image: images/featue-bg.jpg
-categories:
-- Legacy Support
+categories: []
 tags:
 - clases
 - online
