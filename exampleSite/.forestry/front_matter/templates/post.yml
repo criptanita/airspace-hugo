@@ -12,6 +12,7 @@ fields:
   name: bg_image
   label: bg image
   description: page header background image
+  default: "/images/featue-bg.jpg"
 - type: file
   name: image
   label: image
