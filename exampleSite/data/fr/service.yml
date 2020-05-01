@@ -72,8 +72,3 @@ service:
       tempor incididunt ut
 cta:
   enable: true
-menu:
-  footer:
-    URL: project
-    name: Servicios
-    weight: 2
