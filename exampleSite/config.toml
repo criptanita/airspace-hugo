@@ -24,16 +24,6 @@ URL = "contact"
 name = "Contacto"
 url = "https://yogaandoffice.netlify.app/contact/"
 weight = 3
-[[menu.footer]]
-URL = "project"
-name = "Servicios"
-url = "https://yogaandoffice.netlify.app/project/"
-weight = 2
-[[menu.footer]]
-URL = "about"
-name = "Acerca"
-url = "https://yogaandoffice.netlify.app/about/"
-weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contacto"
