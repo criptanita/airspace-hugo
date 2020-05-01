@@ -16,6 +16,7 @@ fields:
 - type: file
   name: image
   label: image
+  default: "/images/blog-post-logo.jpg"
 - type: text
   name: author
   label: author
