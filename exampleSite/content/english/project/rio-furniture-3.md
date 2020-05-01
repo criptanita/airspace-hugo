@@ -19,7 +19,8 @@ Los talleres tienen como objetivo realizar un trabajo más intensivo con algún 
 * _Prácticas de respiración para aumentar la concentración._ Técnicas adecuadas para no salir de lo que estamos haciendo.
 * _Auto masaje y yoga._ Para relajar y sacar toxinas de cuerpo y de la mente.
 * _Taller de chakras._ Cual es su importancia e implicación con nuestra vida diaria.
-* 
+
+### 
 
 **A nivel más teórico:**
 
