@@ -20,7 +20,7 @@ fields:
 - type: text
   name: author
   label: author
-  hidden: true
+  hidden: false
 - type: text
   name: description
   label: description
