@@ -4,8 +4,7 @@ date: 2017-10-04T05:07:10+00:00
 author: Mark Dinn
 image: "/images/blog-post-yoga1.jpg"
 bg_image: images/featue-bg.jpg
-categories:
-- Artificial Intelligence
+categories: []
 tags:
 - yoga
 - taller
