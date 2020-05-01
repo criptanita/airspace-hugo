@@ -6,7 +6,7 @@ image: "/images/blog-post-logo.jpg"
 bg_image: images/featue-bg.jpg
 categories: []
 tags: []
-description: this is meta description
+description: ''
 type: post
 
 ---
