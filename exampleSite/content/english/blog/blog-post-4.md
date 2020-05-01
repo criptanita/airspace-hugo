@@ -4,8 +4,7 @@ date: 2017-09-16T14:20:10+00:00
 author: John Doe
 image: "/images/blog-post-logo.jpg"
 bg_image: images/featue-bg.jpg
-categories:
-- Legacy Support
+categories: []
 tags: []
 description: this is meta description
 type: post
