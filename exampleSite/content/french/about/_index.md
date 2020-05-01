@@ -5,6 +5,6 @@ bg_image: images/featue-bg.jpg
 menu:
   main:
     name: About
-    weight: 1
+    weight: 2
 
 ---

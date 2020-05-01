@@ -19,34 +19,22 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "about"
-name = "Acerca"
-weight = 1
-[[menu.footer]]
-URL = "project"
-name = "Servicios"
-weight = 2
-[[menu.footer]]
+[[menu.main]]
 URL = "contact"
 name = "Contacto"
-weight = 6
+weight = 5
+[[menu.main]]
+URL = "project"
+name = "Servicios"
+weight = 3
 [[menu.main]]
 URL = "about"
 name = "Acerca"
 weight = 1
-[[menu.main]]
-URL = "project"
-name = "Servicios"
-weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contacto"
-weight = 6
 [params]
 author = "Themefisher"
 contact_form_action = "https://formspree.io/mwkndryw"
