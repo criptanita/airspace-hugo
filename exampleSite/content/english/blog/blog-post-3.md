@@ -8,7 +8,7 @@ categories: []
 tags:
 - clases
 - online
-description: this is meta description
+description: ''
 type: post
 
 ---
