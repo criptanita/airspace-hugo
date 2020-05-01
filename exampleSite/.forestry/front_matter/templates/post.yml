@@ -8,6 +8,7 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: now
 - type: file
   name: bg_image
   label: bg image
@@ -20,12 +21,13 @@ fields:
 - type: text
   name: author
   label: author
-  hidden: true
+  hidden: false
+  default: Ana Hurtado
 - type: text
   name: description
   label: description
   description: no escribas nada aqui
-  hidden: false
+  hidden: true
 - type: list
   name: categories
   label: categories
