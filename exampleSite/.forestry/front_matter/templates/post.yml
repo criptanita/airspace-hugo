@@ -18,13 +18,16 @@ fields:
 - type: text
   name: author
   label: author
+  hidden: true
 - type: text
   name: description
   label: description
   description: this is meta description
+  hidden: true
 - type: list
   name: categories
   label: categories
+  hidden: true
 - type: list
   name: tags
   label: tags
