@@ -12,4 +12,10 @@ description: ''
 type: post
 
 ---
-Debido al Covid 19,   Todos los miércoles a las 18.30 pm, se hacen clases de yoga y meditación on-line.
+No dejes de hacer yoga y conéctate a las clases gratis on line,
+
+Todos los martes y jueves de 18.00 a 18:45 un poquito de yoga con pranayamas para mejorar y fortalecer nuestro sistema inmunológico.
+
+Muchas fuerzas y a comer sano, tomar mucha agua y fortalecer el cuerpo.
+
+Mándame un mail para inscribirte a la clase o para cualquier consulta que necesites.
