@@ -7,7 +7,7 @@ description = ""
 draft = true
 image = "/images/blog-post-alimentacion1.jpg"
 tags = []
-title = "Tipa  para mejorar la alimentación. Alimentación ayurveda."
+title = "Tips  para mejorar la alimentación. Alimentación ayurveda."
 type = "post"
 
 +++
