@@ -39,3 +39,5 @@ fields:
   name: type
   label: type
   default: post
+pages:
+- exampleSite/content/english/blog/tipa-para-mejorar-la-alimentación-alimentación-ayurveda.md
