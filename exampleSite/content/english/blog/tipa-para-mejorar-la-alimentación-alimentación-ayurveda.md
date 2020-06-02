@@ -4,7 +4,6 @@ bg_image = "/images/featue-bg.jpg"
 categories = []
 date = 2020-05-28T14:18:01Z
 description = ""
-draft = true
 image = "/images/blog-post-alimentacion1.jpg"
 tags = []
 title = "Tips  para mejorar la alimentación. Alimentación ayurveda."
