@@ -4,7 +4,6 @@ bg_image = "/images/featue-bg.jpg"
 categories = []
 date = 2020-05-31T15:24:00Z
 description = ""
-draft = true
 image = "/images/49ebef16-700e-47a6-abc7-c1c331dd8c89.jpeg"
 tags = []
 title = "Sesiones individuales on-line / gestión de conflictos."
