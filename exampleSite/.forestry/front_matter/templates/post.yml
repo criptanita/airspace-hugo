@@ -40,4 +40,5 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/english/blog/sesiones-individuales-on-line-gestion-de-conflictos.md
 - exampleSite/content/english/blog/tipa-para-mejorar-la-alimentación-alimentación-ayurveda.md
